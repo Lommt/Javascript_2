@@ -27,7 +27,7 @@ img {
     display: block;
 }
 
-.cart-button {
+.btn-cart {
     background-color: red;
     border: 2px solid green;
     border-radius: 16px;
@@ -36,12 +36,12 @@ img {
 
 }
 
-.goods-list {
+.products {
     display: flex;
     justify-content: space-evenly;
 }
 
-.goods-item {
+.products-item {
     width: 118px;
     text-align: center;
     background-color: gold;
@@ -50,7 +50,7 @@ img {
 
 }
 
-.goods-btn {
+.products-btn {
     border: 2px solid bisque;
     border-radius: 28px;
     width: 110px;
