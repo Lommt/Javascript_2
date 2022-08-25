@@ -1,0 +1,58 @@
+body {
+    font-family: 'Rubik Maze', cursive;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+
+button {
+    font-family: 'Rubik Maze', cursive;
+    color: lightsteelblue;
+    height: auto;
+    font-size: 20px;
+}
+
+main {
+    margin-top: 60px;
+}
+
+img {
+    display: block;
+}
+
+.cart-button {
+    background-color: red;
+    border: 2px solid green;
+    border-radius: 16px;
+    width: 143px;
+    color: darkblue;
+
+}
+
+.goods-list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.goods-item {
+    width: 118px;
+    text-align: center;
+    background-color: gold;
+    border-radius: 25px;
+    height: 247px;
+
+}
+
+.goods-btn {
+    border: 2px solid bisque;
+    border-radius: 28px;
+    width: 110px;
+    background-color: bisque;
+}
